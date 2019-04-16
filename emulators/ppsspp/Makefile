@@ -15,6 +15,11 @@ COMMENT=	PSP emulator in C++ with dynarec JIT for x86, ARM, MIPS
 
 LICENSE=	GPLv2+
 
+# Bi-endian architectures default to big for some reason
+NOT_FOR_ARCHS=	mips mips64 powerpc powerpc64 sparc64
+NOT_FOR_ARCHS_REASON=	only little-endian is supported, see \
+		https://github.com/hrydgard/ppsspp/issues/8823
+
 LIB_DEPENDS=	libzip.so:archivers/libzip \
 		libsnappy.so:archivers/snappy \
 		libavcodec.so:multimedia/ffmpeg
@@ -74,7 +79,7 @@ post-patch:
 		${WRKSRC}/assets/gamecontrollerdb.txt
 	@${REINPLACE_CMD} -e 's,/usr/share,${PREFIX}/share,' \
 		${WRKSRC}/UI/NativeApp.cpp
-	@${REINPLACE_CMD} -e 's/"unknown"/"${GH_TAGNAME}"/' \
+	@${REINPLACE_CMD} -e 's/"unknown"/"${DISTVERSIONFULL}"/' \
 		${WRKSRC}/git-version.cmake
 
 do-install:
