@@ -286,6 +286,7 @@
     SUBDIR += cervisia
     SUBDIR += cflow
     SUBDIR += cflow2vcg
+    SUBDIR += cfr
     SUBDIR += cgdb
     SUBDIR += cgilib
     SUBDIR += cgit
@@ -4109,6 +4110,7 @@
     SUBDIR += phpsh
     SUBDIR += phpunit6
     SUBDIR += phpunit7
+    SUBDIR += phpunit8
     SUBDIR += physfs
     SUBDIR += picp
     SUBDIR += picprog
@@ -4920,6 +4922,7 @@
     SUBDIR += py-proglog
     SUBDIR += py-promise
     SUBDIR += py-prompt_toolkit
+    SUBDIR += py-prompt_toolkit1
     SUBDIR += py-prompt_toolkit2
     SUBDIR += py-protobuf
     SUBDIR += py-protocols
