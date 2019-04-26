@@ -616,6 +616,7 @@
     SUBDIR += eventxx
     SUBDIR += evolution-gconf-tools
     SUBDIR += exercisix
+    SUBDIR += f18
     SUBDIR += f77flow
     SUBDIR += fam
     SUBDIR += fastcrc
@@ -6283,6 +6284,7 @@
     SUBDIR += styx
     SUBDIR += subversion
     SUBDIR += subversion-book
+    SUBDIR += subversion-lts
     SUBDIR += subversion19
     SUBDIR += subversive
     SUBDIR += svk
