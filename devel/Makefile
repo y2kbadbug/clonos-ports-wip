@@ -4611,6 +4611,7 @@
     SUBDIR += py-freezegun
     SUBDIR += py-frozendict
     SUBDIR += py-fs
+    SUBDIR += py-fs2
     SUBDIR += py-fsm
     SUBDIR += py-fudge
     SUBDIR += py-funcparserlib
@@ -4950,6 +4951,7 @@
     SUBDIR += py-ptrace
     SUBDIR += py-ptvsd
     SUBDIR += py-pudb
+    SUBDIR += py-purl
     SUBDIR += py-py
     SUBDIR += py-py-ubjson
     SUBDIR += py-py_interface
