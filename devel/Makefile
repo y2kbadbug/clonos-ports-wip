@@ -1662,7 +1662,6 @@
     SUBDIR += llvm-devel
     SUBDIR += llvm35
     SUBDIR += llvm40
-    SUBDIR += llvm50
     SUBDIR += llvm60
     SUBDIR += llvm70
     SUBDIR += llvm80
@@ -4143,7 +4142,6 @@
     SUBDIR += pmd
     SUBDIR += pmdk
     SUBDIR += poco
-    SUBDIR += poco-ssl
     SUBDIR += popt
     SUBDIR += poslib
     SUBDIR += powerpc64-binutils
@@ -5465,6 +5463,7 @@
     SUBDIR += radian
     SUBDIR += ragel
     SUBDIR += raknet
+    SUBDIR += rang
     SUBDIR += range-v3
     SUBDIR += rapidjson
     SUBDIR += raylib
