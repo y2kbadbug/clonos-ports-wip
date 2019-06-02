@@ -1347,6 +1347,7 @@
     SUBDIR += libtar
     SUBDIR += libtecla
     SUBDIR += libtermkey
+    SUBDIR += libtextstyle
     SUBDIR += libthai
     SUBDIR += libthmap
     SUBDIR += libtifiles2
@@ -3835,7 +3836,6 @@
     SUBDIR += pecl-propro2
     SUBDIR += pecl-protobuf
     SUBDIR += pecl-psr
-    SUBDIR += pecl-pthreads
     SUBDIR += pecl-raphf2
     SUBDIR += pecl-request
     SUBDIR += pecl-swoole
