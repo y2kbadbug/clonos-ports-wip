@@ -1953,12 +1953,14 @@
     SUBDIR += rubygem-acts_as_taggable
     SUBDIR += rubygem-addressable
     SUBDIR += rubygem-addressable23
+    SUBDIR += rubygem-addressable25
     SUBDIR += rubygem-adsf
     SUBDIR += rubygem-akami
     SUBDIR += rubygem-amazon-ecs
     SUBDIR += rubygem-anemone
     SUBDIR += rubygem-asana
     SUBDIR += rubygem-async_sinatra
+    SUBDIR += rubygem-atlassian-jwt
     SUBDIR += rubygem-best_in_place
     SUBDIR += rubygem-best_in_place-rails5
     SUBDIR += rubygem-bluecloth
