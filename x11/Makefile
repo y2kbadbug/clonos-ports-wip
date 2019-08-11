@@ -112,6 +112,7 @@
     SUBDIR += innerspace
     SUBDIR += ipager
     SUBDIR += j4-dmenu-desktop
+    SUBDIR += kanshi
     SUBDIR += kb2mb2
     SUBDIR += kde-baseapps
     SUBDIR += kde5
@@ -330,6 +331,7 @@
     SUBDIR += vdesk
     SUBDIR += viewres
     SUBDIR += virtualgl
+    SUBDIR += waybar
     SUBDIR += wbar
     SUBDIR += wbarconf
     SUBDIR += wdm
