@@ -501,6 +501,7 @@
     SUBDIR += intel-pcm-devel
     SUBDIR += intel-qcu
     SUBDIR += intel-undervolt
+    SUBDIR += ioc
     SUBDIR += iocage
     SUBDIR += iocage-devel
     SUBDIR += iocell
@@ -1430,6 +1431,7 @@
     SUBDIR += uefi-edk2-bhyve-csm
     SUBDIR += uefi-edk2-bhyve-devel
     SUBDIR += uefi-edk2-qemu
+    SUBDIR += ufetch
     SUBDIR += ufs_copy
     SUBDIR += uhidd
     SUBDIR += uif2iso
