@@ -1518,6 +1518,7 @@
     SUBDIR += py-django-assets
     SUBDIR += py-django-auth-ldap
     SUBDIR += py-django-babel
+    SUBDIR += py-django-bakery
     SUBDIR += py-django-bitfield
     SUBDIR += py-django-bootstrap-form
     SUBDIR += py-django-bootstrap3
@@ -1597,6 +1598,7 @@
     SUBDIR += py-django-sortedm2m
     SUBDIR += py-django-star-ratings
     SUBDIR += py-django-statici18n
+    SUBDIR += py-django-staticinline
     SUBDIR += py-django-storages
     SUBDIR += py-django-subdomains
     SUBDIR += py-django-sudo
