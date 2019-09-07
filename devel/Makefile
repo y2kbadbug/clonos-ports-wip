@@ -4396,6 +4396,7 @@
     SUBDIR += py-extremes
     SUBDIR += py-ezpyinline
     SUBDIR += py-fabric
+    SUBDIR += py-fabric1
     SUBDIR += py-fabric3
     SUBDIR += py-fam
     SUBDIR += py-fastcache
@@ -5836,6 +5837,7 @@
     SUBDIR += rubygem-grape-swagger
     SUBDIR += rubygem-grape11
     SUBDIR += rubygem-grape_logging
+    SUBDIR += rubygem-grape_logging181
     SUBDIR += rubygem-graphiql-rails
     SUBDIR += rubygem-graphql
     SUBDIR += rubygem-graphql-docs
