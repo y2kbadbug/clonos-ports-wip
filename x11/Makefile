@@ -152,6 +152,7 @@
     SUBDIR += libXinerama
     SUBDIR += libXp
     SUBDIR += libXpm
+    SUBDIR += libXpresent
     SUBDIR += libXprintAppUtil
     SUBDIR += libXprintUtil
     SUBDIR += libXrandr
@@ -225,6 +226,7 @@
     SUBDIR += metisse
     SUBDIR += mkcomposecache
     SUBDIR += mlterm
+    SUBDIR += mons
     SUBDIR += mrxvt
     SUBDIR += mrxvt-devel
     SUBDIR += multi-aterm
