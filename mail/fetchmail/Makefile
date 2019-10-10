@@ -3,6 +3,7 @@
 
 PORTNAME?=	fetchmail
 PORTVERSION=	6.4.1
+PORTREVISION=	1
 CATEGORIES=	mail
 MASTER_SITES=	SF/${PORTNAME}/branch_6.4/
 
@@ -68,7 +69,7 @@ PATCH_STRIP=	-p1
 
 .if empty(MASTERDIR)
 post-build:
-	${MAKE_CMD} -C ${WRKSRC} check
+	${MAKE_CMD} -C ${WRKSRC} check ; { r=$$? ; ( set -x ; cat "${WRKSRC}/test-suite.log" ) ; exit $$r ; }
 
 post-install:
 	${INSTALL} -d ${STAGEDIR}/var/run/fetchmail
