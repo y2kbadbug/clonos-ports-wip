@@ -557,6 +557,7 @@
     SUBDIR += kfloppy
     SUBDIR += khelpcenter
     SUBDIR += kiconvtool
+    SUBDIR += kio-fuse
     SUBDIR += kldfind
     SUBDIR += kldpatch
     SUBDIR += kops
@@ -1172,6 +1173,7 @@
     SUBDIR += safe-rm
     SUBDIR += safecat
     SUBDIR += safecopy
+    SUBDIR += samdruckerclientshell
     SUBDIR += samefile
     SUBDIR += samesame
     SUBDIR += sample
