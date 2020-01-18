@@ -1307,6 +1307,7 @@
     SUBDIR += libpeas
     SUBDIR += libpff
     SUBDIR += libphk
+    SUBDIR += libphonenumber
     SUBDIR += libphutil
     SUBDIR += libplist
     SUBDIR += libpo6
@@ -4820,6 +4821,7 @@
     SUBDIR += py-pyasn1
     SUBDIR += py-pyasn1-modules
     SUBDIR += py-pybind11
+    SUBDIR += py-pybix
     SUBDIR += py-pybloomfiltermmap
     SUBDIR += py-pycadf
     SUBDIR += py-pycalendar
