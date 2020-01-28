@@ -77,6 +77,7 @@
     SUBDIR += bass
     SUBDIR += bastet
     SUBDIR += battalion
+    SUBDIR += battletanks
     SUBDIR += belooted
     SUBDIR += beret
     SUBDIR += billardgl
@@ -945,7 +946,6 @@
     SUBDIR += vavoom
     SUBDIR += vavoom-extras
     SUBDIR += vectoroids
-    SUBDIR += vegastrike-data
     SUBDIR += veloren
     SUBDIR += violetland
     SUBDIR += viruskiller
