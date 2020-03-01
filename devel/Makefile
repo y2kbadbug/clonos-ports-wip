@@ -1240,6 +1240,7 @@
     SUBDIR += liblouis
     SUBDIR += liblpm
     SUBDIR += libltdl
+    SUBDIR += libluksde
     SUBDIR += liblxqt
     SUBDIR += libmaa
     SUBDIR += libmatheval
@@ -2657,6 +2658,7 @@
     SUBDIR += p5-Log-TraceMessages
     SUBDIR += p5-Log-ger
     SUBDIR += p5-Logfile-Rotate
+    SUBDIR += p5-Long-Jump
     SUBDIR += p5-Luka
     SUBDIR += p5-Lvalue
     SUBDIR += p5-MCE
@@ -4368,6 +4370,8 @@
     SUBDIR += py-flatbuffers
     SUBDIR += py-flex
     SUBDIR += py-flexmock
+    SUBDIR += py-flit
+    SUBDIR += py-flit-core
     SUBDIR += py-fluent-logger
     SUBDIR += py-flufl.i18n
     SUBDIR += py-flufl.lock
@@ -4581,6 +4585,8 @@
     SUBDIR += py-magic
     SUBDIR += py-mailcap-fix
     SUBDIR += py-manuel
+    SUBDIR += py-marrow.mailer
+    SUBDIR += py-marrow.util
     SUBDIR += py-marshmallow
     SUBDIR += py-matrix-angular-sdk
     SUBDIR += py-mccabe

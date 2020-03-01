@@ -11946,7 +11946,6 @@ devel/geany-plugin-webhelper||2019-03-24|Has expired: webkit-gtk* last release i
 editors/gwrite||2019-03-24|Has expired: webkit-gtk* last release in 2016 and security issues
 mail/claws-mail-fancy||2019-03-24|Has expired: webkit-gtk* last release in 2016 and security issues
 multimedia/miro||2019-03-24|Has expired: webkit-gtk* last release in 2016 and security issues
-misc/xiphos||2019-03-24|Has expired: webkit-gtk* last release in 2016 and security issues
 net/libproxy-webkit||2019-03-24|Has expired: webkit-gtk* last release in 2016 and security issues
 net-im/hotot||2019-03-24|Has expired: webkit-gtk* last release in 2016 and security issues
 www/deforaos-surfer||2019-03-24|Has expired: webkit-gtk* last release in 2016 and security issues
@@ -14395,3 +14394,5 @@ databases/rubygem-peek-pg-rails52|databases/rubygem-peek-pg-rails5|2020-02-29|Ob
 devel/py-rwt|devel/py-pip-run|2020-02-29|Has expired: Superseded by devel/py-pip-run
 graphics/py-pyglet12|graphics/py-pyglet|2020-02-29|Has expired: Use graphics/py-pyglet instead
 net/p5-ZeroMQ||2020-02-29|Has expired: Deprecated by upstream
+mail/roundcube-sieverules||2020-02-29|Included in mail/roundcube
+mail/roundcube-markasjunk2||2020-02-29|Included in mail/roundcube
