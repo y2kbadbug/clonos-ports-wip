@@ -41,6 +41,7 @@
     SUBDIR += cheat
     SUBDIR += chef
     SUBDIR += chmlib
+    SUBDIR += chrono
     SUBDIR += cinnamon-translations
     SUBDIR += cldr-emoji-annotation
     SUBDIR += clex
@@ -542,6 +543,7 @@
     SUBDIR += xfce4-wm-themes
     SUBDIR += xgas
     SUBDIR += xgboost
+    SUBDIR += xiphos
     SUBDIR += xless
     SUBDIR += xosd
     SUBDIR += xtail
