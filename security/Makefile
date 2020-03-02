@@ -170,6 +170,7 @@
     SUBDIR += fwlogwatch
     SUBDIR += gag
     SUBDIR += gcr
+    SUBDIR += gef
     SUBDIR += git-crypt
     SUBDIR += git-remote-gcrypt
     SUBDIR += git-secret
@@ -215,7 +216,6 @@
     SUBDIR += honeytrap
     SUBDIR += honggfuzz
     SUBDIR += horcrux
-    SUBDIR += hotssh
     SUBDIR += hpenc
     SUBDIR += hs-cryptol
     SUBDIR += hydra
@@ -574,6 +574,7 @@
     SUBDIR += p5-Crypt-SKey
     SUBDIR += p5-Crypt-SMIME
     SUBDIR += p5-Crypt-SSLeay
+    SUBDIR += p5-Crypt-SSSS
     SUBDIR += p5-Crypt-Salt
     SUBDIR += p5-Crypt-SaltedHash
     SUBDIR += p5-Crypt-Serpent
@@ -969,6 +970,7 @@
     SUBDIR += py-rekall_lib
     SUBDIR += py-requests-credssp
     SUBDIR += py-requests-kerberos
+    SUBDIR += py-ropper
     SUBDIR += py-rsa
     SUBDIR += py-safe
     SUBDIR += py-scp
@@ -1294,7 +1296,6 @@
     SUBDIR += yubioath-desktop
     SUBDIR += zebedee
     SUBDIR += zeek
-    SUBDIR += zenmap
     SUBDIR += zeronet
     SUBDIR += zxid
     SUBDIR += zzuf
