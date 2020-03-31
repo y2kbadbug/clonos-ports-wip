@@ -95,6 +95,7 @@
     SUBDIR += R-cran-quadprog
     SUBDIR += R-cran-qualityTools
     SUBDIR += R-cran-quantreg
+    SUBDIR += R-cran-raster
     SUBDIR += R-cran-recipes
     SUBDIR += R-cran-rgenoud
     SUBDIR += R-cran-robustbase
