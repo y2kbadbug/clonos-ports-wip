@@ -701,6 +701,7 @@
     SUBDIR += fuel
     SUBDIR += fuzzylite
     SUBDIR += fxdiv
+    SUBDIR += g-wrap
     SUBDIR += ga
     SUBDIR += gaa
     SUBDIR += gamin
@@ -1091,6 +1092,7 @@
     SUBDIR += leatherman
     SUBDIR += leiningen
     SUBDIR += lemon
+    SUBDIR += level-zero
     SUBDIR += lfcbase
     SUBDIR += lfcxml
     SUBDIR += libCello
@@ -2440,8 +2442,8 @@
     SUBDIR += p5-Git-Sub
     SUBDIR += p5-Git-Version-Compare
     SUBDIR += p5-Git-Wrapper
+    SUBDIR += p5-Glib
     SUBDIR += p5-Glib-Object-Introspection
-    SUBDIR += p5-Glib2
     SUBDIR += p5-Gnome2-GConf
     SUBDIR += p5-Goo-Canvas
     SUBDIR += p5-Goo-Canvas2
