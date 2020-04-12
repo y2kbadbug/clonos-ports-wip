@@ -201,7 +201,7 @@
     SUBDIR += avro-c
     SUBDIR += avro-cpp
     SUBDIR += awless
-    SUBDIR += aws-c-commons
+    SUBDIR += aws-c-common
     SUBDIR += aws-c-event-stream
     SUBDIR += aws-checksums
     SUBDIR += aws-sdk-cpp
@@ -4383,6 +4383,7 @@
     SUBDIR += py-fluent-logger
     SUBDIR += py-flufl.i18n
     SUBDIR += py-flufl.lock
+    SUBDIR += py-flynt
     SUBDIR += py-foolscap
     SUBDIR += py-freebsd
     SUBDIR += py-freebsd-sysctl
