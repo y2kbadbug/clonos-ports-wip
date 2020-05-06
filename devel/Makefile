@@ -869,6 +869,7 @@
     SUBDIR += gradle
     SUBDIR += gradle4
     SUBDIR += gradle5
+    SUBDIR += gradle62
     SUBDIR += grantlee5
     SUBDIR += graphql.el
     SUBDIR += grpc
@@ -5115,6 +5116,7 @@
     SUBDIR += py-tokenize-rt
     SUBDIR += py-toolz
     SUBDIR += py-tooz
+    SUBDIR += py-tooz1
     SUBDIR += py-toposort
     SUBDIR += py-total-ordering
     SUBDIR += py-tox
