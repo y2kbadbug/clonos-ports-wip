@@ -4565,8 +4565,8 @@
     SUBDIR += py-jupyter_console
     SUBDIR += py-jupyter_core
     SUBDIR += py-jupyterlab
+    SUBDIR += py-jupyterlab-server
     SUBDIR += py-jupyterlab_launcher
-    SUBDIR += py-jupyterlab_server
     SUBDIR += py-kaitaistruct
     SUBDIR += py-kaptan
     SUBDIR += py-kayako
@@ -6172,6 +6172,7 @@
     SUBDIR += rubygem-micromachine
     SUBDIR += rubygem-micromachine2
     SUBDIR += rubygem-middleware
+    SUBDIR += rubygem-mini_histogram
     SUBDIR += rubygem-mini_portile2
     SUBDIR += rubygem-minitest
     SUBDIR += rubygem-mixlib-archive
