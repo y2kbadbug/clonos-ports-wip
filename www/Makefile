@@ -1477,6 +1477,7 @@
     SUBDIR += py-django-classy-tags
     SUBDIR += py-django-cms
     SUBDIR += py-django-common-helpers
+    SUBDIR += py-django-compat
     SUBDIR += py-django-configurations
     SUBDIR += py-django-constance
     SUBDIR += py-django-contact-form
@@ -2187,6 +2188,7 @@
     SUBDIR += template_
     SUBDIR += templatelite
     SUBDIR += thirtybees
+    SUBDIR += threejs
     SUBDIR += thttpd
     SUBDIR += thumbnail_index
     SUBDIR += thundercache
