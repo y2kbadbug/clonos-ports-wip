@@ -233,6 +233,7 @@
     SUBDIR += hotcrp
     SUBDIR += hs-DAV
     SUBDIR += hs-hjsmin
+    SUBDIR += hs-postgrest
     SUBDIR += hs-wai-app-static
     SUBDIR += hs-yesod-bin
     SUBDIR += htdigest
@@ -1651,6 +1652,7 @@
     SUBDIR += py-html5-parser
     SUBDIR += py-html5lib
     SUBDIR += py-httmock
+    SUBDIR += py-httpcore
     SUBDIR += py-httpie
     SUBDIR += py-httplib2
     SUBDIR += py-httptools
