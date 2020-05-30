@@ -256,6 +256,7 @@
     SUBDIR += igal2
     SUBDIR += ikiwiki
     SUBDIR += ilias
+    SUBDIR += ilias6
     SUBDIR += interchange
     SUBDIR += iridium
     SUBDIR += itop
@@ -409,7 +410,6 @@
     SUBDIR += mongoose
     SUBDIR += mongrel2
     SUBDIR += moodle35
-    SUBDIR += moodle36
     SUBDIR += moodle37
     SUBDIR += moodle38
     SUBDIR += morty
