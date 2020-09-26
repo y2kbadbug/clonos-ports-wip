@@ -6667,6 +6667,7 @@
     SUBDIR += ta-lib
     SUBDIR += tablist
     SUBDIR += talloc
+    SUBDIR += taskctl
     SUBDIR += taskflow
     SUBDIR += tass64
     SUBDIR += tbb
@@ -6744,6 +6745,7 @@
     SUBDIR += urjtag
     SUBDIR += utf8cpp
     SUBDIR += uthash
+    SUBDIR += util-linux
     SUBDIR += valgrind
     SUBDIR += valgrind-devel
     SUBDIR += varconf
