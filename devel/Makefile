@@ -698,6 +698,7 @@
     SUBDIR += ga
     SUBDIR += gaa
     SUBDIR += gamin
+    SUBDIR += gammaray
     SUBDIR += gauche-readline
     SUBDIR += gaul
     SUBDIR += gb
@@ -6020,6 +6021,7 @@
     SUBDIR += rubygem-forwardable-extended
     SUBDIR += rubygem-fugit
     SUBDIR += rubygem-fugit12
+    SUBDIR += rubygem-gapic-common
     SUBDIR += rubygem-gdata
     SUBDIR += rubygem-gem-compare
     SUBDIR += rubygem-gem_plugin
