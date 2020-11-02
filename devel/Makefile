@@ -795,7 +795,6 @@
     SUBDIR += gitblit
     SUBDIR += gitflow
     SUBDIR += gitg
-    SUBDIR += gitg0
     SUBDIR += github-backup-utils
     SUBDIR += gitinspector
     SUBDIR += gitlab-runner
@@ -3663,7 +3662,6 @@
     SUBDIR += pasm
     SUBDIR += patch
     SUBDIR += pcc-libs
-    SUBDIR += pccts
     SUBDIR += pcl
     SUBDIR += pcre
     SUBDIR += pcre++
@@ -6811,6 +6809,9 @@
     SUBDIR += vxlog
     SUBDIR += wand-libconfig
     SUBDIR += wandio
+    SUBDIR += wasi-compiler-rt11
+    SUBDIR += wasi-libc
+    SUBDIR += wasi-libcxx
     SUBDIR += websocketpp
     SUBDIR += websvn
     SUBDIR += wf-config
