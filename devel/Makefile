@@ -1194,6 +1194,7 @@
     SUBDIR += libhoard
     SUBDIR += libhtp
     SUBDIR += libhyve-remote
+    SUBDIR += libibuddy
     SUBDIR += libical
     SUBDIR += libindicator
     SUBDIR += libinotify
@@ -4224,6 +4225,7 @@
     SUBDIR += py-cachy
     SUBDIR += py-canonicaljson
     SUBDIR += py-capstone
+    SUBDIR += py-case
     SUBDIR += py-castellan
     SUBDIR += py-castellan1
     SUBDIR += py-cbor
