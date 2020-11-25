@@ -667,6 +667,7 @@
     SUBDIR += fpc-fcl-passrc
     SUBDIR += fpc-fcl-pdf
     SUBDIR += fpc-fcl-registry
+    SUBDIR += fpc-fcl-report
     SUBDIR += fpc-fcl-res
     SUBDIR += fpc-fcl-sdo
     SUBDIR += fpc-fcl-sound
@@ -676,7 +677,9 @@
     SUBDIR += fpc-fppkg
     SUBDIR += fpc-fv
     SUBDIR += fpc-gdbint
+    SUBDIR += fpc-libmagic
     SUBDIR += fpc-newt
+    SUBDIR += fpc-odata
     SUBDIR += fpc-pthreads
     SUBDIR += fpc-regexpr
     SUBDIR += fpc-sdl
@@ -5625,6 +5628,7 @@
     SUBDIR += rubygem-aws-sdk-mq
     SUBDIR += rubygem-aws-sdk-mturk
     SUBDIR += rubygem-aws-sdk-neptune
+    SUBDIR += rubygem-aws-sdk-networkfirewall
     SUBDIR += rubygem-aws-sdk-networkmanager
     SUBDIR += rubygem-aws-sdk-opsworks
     SUBDIR += rubygem-aws-sdk-opsworkscm
