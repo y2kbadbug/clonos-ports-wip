@@ -654,6 +654,7 @@
     SUBDIR += mate-system-monitor
     SUBDIR += mbgtools
     SUBDIR += mcelog
+    SUBDIR += mcfly
     SUBDIR += mcollective
     SUBDIR += mcollective-actionpolicy-auth
     SUBDIR += mcollective-nettest-agent
@@ -791,6 +792,7 @@
     SUBDIR += p5-BSD-Jail-Object
     SUBDIR += p5-BSD-Process
     SUBDIR += p5-BSD-Sysctl
+    SUBDIR += p5-BSD-getloadavg
     SUBDIR += p5-BackupPC-XS
     SUBDIR += p5-Brackup
     SUBDIR += p5-Dir-Purge
