@@ -1578,6 +1578,7 @@
     SUBDIR += py-draftjs-exporter
     SUBDIR += py-drf-yasg
     SUBDIR += py-dtflickr
+    SUBDIR += py-enmerkar
     SUBDIR += py-fake-useragent
     SUBDIR += py-falcon
     SUBDIR += py-feedgenerator
@@ -1718,6 +1719,7 @@
     SUBDIR += py-requests-mock
     SUBDIR += py-requests-oauthlib
     SUBDIR += py-requests-toolbelt
+    SUBDIR += py-requests-unixsocket
     SUBDIR += py-requests_ntlm
     SUBDIR += py-restclient
     SUBDIR += py-rfc3986
