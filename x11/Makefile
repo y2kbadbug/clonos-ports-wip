@@ -69,6 +69,7 @@
     SUBDIR += fireflies
     SUBDIR += florence
     SUBDIR += flruler
+    SUBDIR += fnott
     SUBDIR += fpc-x11
     SUBDIR += fstobdf
     SUBDIR += fuzzel
@@ -211,6 +212,7 @@
     SUBDIR += lxqt-runner
     SUBDIR += lxrandr
     SUBDIR += ly
+    SUBDIR += mako
     SUBDIR += mate
     SUBDIR += mate-applets
     SUBDIR += mate-base
@@ -412,6 +414,7 @@
     SUBDIR += xconsole
     SUBDIR += xcursorgen
     SUBDIR += xcut
+    SUBDIR += xdg-desktop-portal-wlr
     SUBDIR += xditview
     SUBDIR += xdm
     SUBDIR += xdo
