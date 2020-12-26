@@ -214,6 +214,7 @@
     SUBDIR += babeltrace
     SUBDIR += bam
     SUBDIR += bashdb
+    SUBDIR += basu
     SUBDIR += bats-core
     SUBDIR += bazel
     SUBDIR += bazel-buildtools
@@ -1169,7 +1170,9 @@
     SUBDIR += libfreefare
     SUBDIR += libfsapfs
     SUBDIR += libfsext
+    SUBDIR += libfshfs
     SUBDIR += libfsntfs
+    SUBDIR += libfsxfs
     SUBDIR += libftdi
     SUBDIR += libftdi1
     SUBDIR += libfwnt
@@ -6730,7 +6733,6 @@
     SUBDIR += spice-protocol
     SUBDIR += spin
     SUBDIR += spirv-llvm-translator
-    SUBDIR += spirv-tools
     SUBDIR += splint
     SUBDIR += spread-sheet-widget
     SUBDIR += srecord
