@@ -9,6 +9,7 @@
     SUBDIR += 915resolution
     SUBDIR += LPRng
     SUBDIR += LPRngTool
+    SUBDIR += R-cran-ps
     SUBDIR += UEFITool
     SUBDIR += abduco
     SUBDIR += abgx360
@@ -98,6 +99,9 @@
     SUBDIR += bareos18-client
     SUBDIR += bareos18-server
     SUBDIR += bareos18-traymonitor
+    SUBDIR += bareos19-client
+    SUBDIR += bareos19-server
+    SUBDIR += bareos19-traymonitor
     SUBDIR += barrier
     SUBDIR += bashtop
     SUBDIR += bastille
@@ -754,6 +758,7 @@
     SUBDIR += nfcutils
     SUBDIR += nitrogen
     SUBDIR += nix
+    SUBDIR += nmrpflash
     SUBDIR += no-login
     SUBDIR += node_exporter
     SUBDIR += nomad
