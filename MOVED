@@ -8165,8 +8165,6 @@ deskutils/ladon||2016-04-23|Has expired: Broken for more than 6 months
 java/linux-sun-jdk17||2016-04-24|Has expired: Unsupported and known for multiple security vulnerabilities
 devel/compiler-rt-devel|devel/llvm-devel|2016-04-24|Folded back in to devel/llvm-devel
 databases/rrdtool10|databases/rrdtool|2016-05-02|Old version, not maintained any more
-devel/sope|devel/sope2|2016-05-02|Renamed to devel/sope2
-www/sogo-activesync|www/sogo2-activesync|2016-05-02|Renamed to www/sogo2-activesync
 textproc/rubygem-gherkin3|textproc/rubygem-gherkin|2016-05-03|Has expired: Use textproc/rubygem-gherkin instead
 dns/odsclient||2016-05-03|Has expired: ODS shuts service down, so client is probably useless
 games/Cockatrice|games/cockatrice|2016-05-05|Renamed to games/cockatrice
@@ -14586,7 +14584,6 @@ devel/mercurialeclipse||2020-05-05|Has expired: Broken for more than 6 months
 devel/mime||2020-05-05|Has expired: Broken for more than 6 months
 devel/motor||2020-05-05|Has expired: Broken for more than 6 months
 devel/mq4cpp||2020-05-05|Has expired: Broken for more than 6 months
-devel/myrepos||2020-05-05|Has expired: Broken for more than 6 months
 devel/oozie||2020-05-05|Has expired: Broken for more than 6 months
 devel/p5-Cdk||2020-05-05|Has expired: Broken for more than 6 months
 devel/p5-Data-Average||2020-05-05|Has expired: Broken for more than 6 months
@@ -15803,3 +15800,20 @@ devel/spirv-tools|graphics/spirv-tools|2020-12-25|Moved to a better category, al
 sysutils/basu|devel/basu|2020-12-25|Moved to a better category, aligning with dbus
 audio/modplugplay|audio/modplug-tools|2020-12-27|Moved to GitHub under a different name
 www/py-flexget|www/flexget|2020-12-28|Dropped py- prefix due to be a standalone application
+textproc/py-hypua2jamo||2020-12-29|Has expired: Uses deprecated version of python
+devel/py-delfick_error||2020-12-29|Has expired: Uses deprecated version of python
+devel/py-fusefs||2020-12-29|Has expired: Uses deprecated version of python
+devel/py-noseofyeti||2020-12-29|Has expired: Uses deprecated version of python
+databases/py-bsddb||2020-12-29|Has expired: Uses deprecated version of python
+www/py-webhelpers||2020-12-29|Has expired: Uses deprecated version of python
+security/py-pyptlib||2020-12-29|Has expired: Uses deprecated version of python
+japanese/py-zinnia||2020-12-29|Has expired: Uses deprecated version of python
+math/slepc||2020-12-29|Has expired: Broken, uses deprecated version of python
+www/py-pastescript||2020-12-29|Has expired: Uses deprecated version of python
+databases/ldb14||2020-12-29|Has expired: Uses deprecated version of python
+math/py-slepc4py||2020-12-29|Has expired: Depends on broken and expiring math/slepc
+multimedia/py-kaa-base||2020-12-29|Has expired: Uses deprecated version of python
+devel/py-ydbf||2020-12-29|Has expired: Uses deprecated version of python
+devel/py-SymbolType||2020-12-29|Has expired: Uses deprecated version of python
+databases/py-MySQLdb||2020-12-29|Has expired: Uses deprecated version of python
+net/py-libfte||2020-12-29|Has expired: Uses deprecated version of python
