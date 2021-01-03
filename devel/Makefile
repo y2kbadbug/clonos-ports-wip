@@ -85,6 +85,7 @@
     SUBDIR += R-cran-rngtools
     SUBDIR += R-cran-rprojroot
     SUBDIR += R-cran-rstudioapi
+    SUBDIR += R-cran-rversions
     SUBDIR += R-cran-sfsmisc
     SUBDIR += R-cran-sourcetools
     SUBDIR += R-cran-sys
@@ -4095,6 +4096,7 @@
     SUBDIR += py-azure-mgmt-containerservice
     SUBDIR += py-azure-mgmt-core
     SUBDIR += py-azure-mgmt-cosmosdb
+    SUBDIR += py-azure-mgmt-databoxedge
     SUBDIR += py-azure-mgmt-datalake-analytics
     SUBDIR += py-azure-mgmt-datalake-store
     SUBDIR += py-azure-mgmt-datamigration
@@ -4154,8 +4156,6 @@
     SUBDIR += py-backcall
     SUBDIR += py-backports
     SUBDIR += py-backports.csv
-    SUBDIR += py-backports.functools_lru_cache
-    SUBDIR += py-backports_abc
     SUBDIR += py-banal
     SUBDIR += py-bandit
     SUBDIR += py-bcdoc
@@ -4401,7 +4401,6 @@
     SUBDIR += py-furl
     SUBDIR += py-fusepy
     SUBDIR += py-future
-    SUBDIR += py-futures
     SUBDIR += py-futurist
     SUBDIR += py-futurist1
     SUBDIR += py-fuzzywuzzy
@@ -5040,7 +5039,6 @@
     SUBDIR += py-simpleparse
     SUBDIR += py-simpletal
     SUBDIR += py-simpy
-    SUBDIR += py-singledispatch
     SUBDIR += py-sip
     SUBDIR += py-six
     SUBDIR += py-smmap
