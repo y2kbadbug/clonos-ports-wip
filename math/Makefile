@@ -843,7 +843,12 @@
     SUBDIR += py-simhash
     SUBDIR += py-snuggs
     SUBDIR += py-spectral
+    SUBDIR += py-spglm
+    SUBDIR += py-spint
+    SUBDIR += py-splot
     SUBDIR += py-spot
+    SUBDIR += py-spreg
+    SUBDIR += py-spvcm
     SUBDIR += py-ssm
     SUBDIR += py-statsmodels
     SUBDIR += py-statsmodels010
@@ -861,7 +866,6 @@
     SUBDIR += qalculate
     SUBDIR += qd
     SUBDIR += qhull
-    SUBDIR += qhull5
     SUBDIR += qposases
     SUBDIR += qrupdate
     SUBDIR += qtiplot-doc
@@ -890,6 +894,7 @@
     SUBDIR += rubygem-narray_miss
     SUBDIR += rubygem-numru-misc
     SUBDIR += rubygem-numru-units
+    SUBDIR += rubygem-prime
     SUBDIR += rubygem-rb-gsl
     SUBDIR += rumur
     SUBDIR += saga
