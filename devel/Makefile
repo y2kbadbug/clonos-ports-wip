@@ -369,6 +369,7 @@
     SUBDIR += codesearch-py
     SUBDIR += codeworker
     SUBDIR += collada-dom
+    SUBDIR += color
     SUBDIR += colorgcc
     SUBDIR += colormake
     SUBDIR += commit-patch
@@ -5142,7 +5143,6 @@
     SUBDIR += py-txaio
     SUBDIR += py-typechecks
     SUBDIR += py-typed-ast
-    SUBDIR += py-typing
     SUBDIR += py-typing-extensions
     SUBDIR += py-typing-inspect
     SUBDIR += py-tzlocal
@@ -6853,6 +6853,7 @@
     SUBDIR += tortoisehg
     SUBDIR += tpasm
     SUBDIR += tradcpp
+    SUBDIR += transwarp
     SUBDIR += treepy.el
     SUBDIR += trellis
     SUBDIR += trio
