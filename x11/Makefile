@@ -300,6 +300,7 @@
     SUBDIR += sakura
     SUBDIR += sbxkb
     SUBDIR += screen-message
+    SUBDIR += screengrab
     SUBDIR += screenkey
     SUBDIR += scripts
     SUBDIR += sddm
@@ -357,6 +358,7 @@
     SUBDIR += wdisplays
     SUBDIR += wdm
     SUBDIR += wev
+    SUBDIR += wezterm
     SUBDIR += wf-shell
     SUBDIR += wl-clipboard
     SUBDIR += wlogout
