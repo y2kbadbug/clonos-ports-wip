@@ -521,6 +521,7 @@
     SUBDIR += dwarf2json
     SUBDIR += dwarfdump
     SUBDIR += dwarves
+    SUBDIR += dwz
     SUBDIR += dxa65
     SUBDIR += dyncall
     SUBDIR += e00compr
@@ -1618,6 +1619,7 @@
     SUBDIR += omake
     SUBDIR += omniORB
     SUBDIR += omnisharp-server
+    SUBDIR += onetbb
     SUBDIR += oniguruma
     SUBDIR += open-beagle
     SUBDIR += opencl
@@ -4355,6 +4357,7 @@
     SUBDIR += py-dogpile.cache
     SUBDIR += py-doit
     SUBDIR += py-dotted
+    SUBDIR += py-dotty-dict
     SUBDIR += py-dpcontracts
     SUBDIR += py-dtfabric
     SUBDIR += py-durus
@@ -4629,6 +4632,7 @@
     SUBDIR += py-meliae
     SUBDIR += py-memory-profiler
     SUBDIR += py-microversion-parse
+    SUBDIR += py-milc
     SUBDIR += py-minidump
     SUBDIR += py-minimongo
     SUBDIR += py-minio
@@ -4832,6 +4836,7 @@
     SUBDIR += py-proselint
     SUBDIR += py-proto-plus
     SUBDIR += py-protobuf
+    SUBDIR += py-proxmoxer
     SUBDIR += py-ptable
     SUBDIR += py-ptpython
     SUBDIR += py-ptvsd
