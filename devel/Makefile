@@ -975,6 +975,7 @@
     SUBDIR += include-what-you-use
     SUBDIR += indicators
     SUBDIR += inifiled
+    SUBDIR += inih
     SUBDIR += inilib
     SUBDIR += inilike
     SUBDIR += iniparser
@@ -1566,6 +1567,8 @@
     SUBDIR += nini
     SUBDIR += ninja
     SUBDIR += nlohmann-json
+    SUBDIR += node-gyp
+    SUBDIR += node-nan
     SUBDIR += node-thrift
     SUBDIR += notcurses
     SUBDIR += notify-sharp
